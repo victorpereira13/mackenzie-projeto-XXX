@@ -1,20 +1,16 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
-
-## Turma XXX
-## Projeto: "nome do projeto"
+# [OBJETOS INTELIGENTES CONECTADOS] 01 SEMESTRE 2018
+## Turma 05K11
+## Projeto: "Árvore de natal"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Lucas Teixeira Porfirio 
+* Victor Pereira Cardoso de Azevedo
 
 ## Descrição resumida do projeto
 
 Descreva resumidamente o projeto aqui.
 
-_______________________________________
-Obs:
+Árvore de natal com Arduino UNO, utilizando leds verdes e vermelhos e uma placa de fenolite
 
 `src/` deve conter os códigos desenvolvidos
 
