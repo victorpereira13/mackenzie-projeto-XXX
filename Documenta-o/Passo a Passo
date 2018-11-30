@@ -1,0 +1,18 @@
+Nome do projeto: automação residencial
+
+Este projeto apresenta uma automação residencial,permitindo o controle de relés pelo Blynk.
+Para este projeto, montamos um circuito com um módulo relé de 2 canais 5V e 2 lâmpadas ligadas à uma porta usb.
+Materiais necessários:
+- 1 plana UNO R3
+- 1 Cabo USB
+- 1 Ethernet Shield W5100
+- 1 Cabo de Rede Conector Rj45 1,5mm
+- 40 Jumpers Macho-Fêmea (não serão necessário usar todos, mas por precaução, tenha no mínimmo essa quantidade)
+- 1 Módulo Relé 5v 2 Canais
+- 1 Fio Simples 1,0mm 3m
+- 2 Lâmpadas E14 15W
+- 2 Soquetes Lâmpada E14
+- 1 Plug Tomada Macho(não sendo totalmente necessário, funcionará com a alimentação USB)
+
+
+Após a montagem do circuito(conforme imagem "Mapa cicuito.png")
